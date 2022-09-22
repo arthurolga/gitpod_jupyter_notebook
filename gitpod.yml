@@ -1,0 +1,3 @@
+tasks:
+  - init: pip3 install notebook
+    command: jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password=''
