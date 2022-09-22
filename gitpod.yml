@@ -1,3 +1,0 @@
-tasks:
-  - init: pip install notebook
-    command: jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password=''
